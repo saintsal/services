@@ -6,6 +6,17 @@ We appreciate any and all contributions. Before contributing, please read our [c
 
 If you are here, you are likely part of the Kernel and you should join the [#kernel-building-kernel](https://app.slack.com/client/T016DS66R99/C031ES44SA3) Slack channel.
 
+## Accessing documentation
+We're eating our own dogfood, and using Kernel Services ourselves.  To access further documentation, you must first join us in our KBK Adventure using your Kernel Wallet.
+
+1. Create a wallet at https://wallet.kernel.community/
+2. Submit an application as a fellow
+3. Ask simon or Andy to approve you
+4. Once approvied, go to the Adventures SPA at https://adventures.kernel.community/
+5. Find the KBK/Kernel Building Kernel adventure there 
+6. You'll find links to background documentation, archetecture etc.
+7. If you'd like to contribute to that documenation, please request access to that adventure
+
 ## Submitting an issue
 
 Feel free to submit an issue through the issue tracker.
